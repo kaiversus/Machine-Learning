@@ -74,7 +74,7 @@ The project requires the implementation of **three specific CNN architectures** 
 - Python 3.8+  
 - PyTorch  
 - TorchVision  
-- Google Colab
+- Google Colab / Jupiter notebooks
 
 ---
 ## 🧩 Design Diagram
